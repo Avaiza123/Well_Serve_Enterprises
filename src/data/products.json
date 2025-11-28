@@ -1,0 +1,845 @@
+
+[
+  {
+    "id": "p001",
+    "name": "Standard Surgical Scalpel Handle (No. 3)",
+    "category": "Instruments",
+    "price": 25.99,
+    "description": "Reusable stainless steel handle for various blade sizes.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Handle"
+  },
+  {
+    "id": "p002",
+    "name": "Disposable Scalpel Blades (No. 10, Box of 100)",
+    "category": "Instruments",
+    "price": 45.00,
+    "description": "Sterile carbon steel blades for precision incisions.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Blade+10"
+  },
+  {
+    "id": "p003",
+    "name": "Adson Dressing Forceps (4.75 inch)",
+    "category": "Instruments",
+    "price": 18.75,
+    "description": "Fine-tipped forceps for precise tissue manipulation.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Forceps"
+  },
+  {
+    "id": "p004",
+    "name": "Mayo-Hegar Needle Holder (6 inch)",
+    "category": "Instruments",
+    "price": 35.50,
+    "description": "Used to hold and guide surgical needles.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Needle+Holder"
+  },
+  {
+    "id": "p005",
+    "name": "Metzenbaum Scissors (7 inch, Curved)",
+    "category": "Instruments",
+    "price": 55.90,
+    "description": "Delicate scissors for soft tissue dissection.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Scissors+C"
+  },
+  {
+    "id": "p006",
+    "name": "Babcock Intestinal Forceps (8 inch)",
+    "category": "Instruments",
+    "price": 48.20,
+    "description": "Non-crushing forceps for grasping delicate structures.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Babcock"
+  },
+  {
+    "id": "p007",
+    "name": "Cushing Vein Retractor",
+    "category": "Instruments",
+    "price": 32.80,
+    "description": "Used for retracting small veins during surgery.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Retractor"
+  },
+  {
+    "id": "p008",
+    "name": "Kocker Artery Forceps (Straight)",
+    "category": "Instruments",
+    "price": 22.10,
+    "description": "Used to clamp or hold tissue or blood vessels.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Artery+F"
+  },
+  {
+    "id": "p009",
+    "name": "Hemorrhoidal Ligature Applicator",
+    "category": "Instruments",
+    "price": 155.00,
+    "description": "Specialized instrument for rubber band ligation.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Ligature"
+  },
+  {
+    "id": "p010",
+    "name": "Surgical Suction Tip (Yankauer)",
+    "category": "Instruments",
+    "price": 8.99,
+    "description": "Standard suction tip with a large, bulbous end.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Yankauer"
+  },
+  {
+    "id": "p011",
+    "name": "Towel Clamp (Non-Perforating)",
+    "category": "Instruments",
+    "price": 11.50,
+    "description": "Used to secure surgical drapes.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Towel+Clamp"
+  },
+  {
+    "id": "p012",
+    "name": "Gelpi Retractor (Self-Retaining)",
+    "category": "Instruments",
+    "price": 89.99,
+    "description": "Used to hold soft tissue away from the surgical area.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Gelpi"
+  },
+  {
+    "id": "p013",
+    "name": "Iris Scissors (Fine Point)",
+    "category": "Instruments",
+    "price": 28.50,
+    "description": "Small, sharp scissors for delicate procedures.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Iris+Scissors"
+  },
+  {
+    "id": "p014",
+    "name": "Bone Rongeur (Double-Action)",
+    "category": "Instruments",
+    "price": 210.00,
+    "description": "Used for nibbling away bone.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Rongeur"
+  },
+  {
+    "id": "p015",
+    "name": "Orthopedic Mallet (Stainless Steel)",
+    "category": "Instruments",
+    "price": 75.00,
+    "description": "Used for tapping osteotomes and chisels.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Mallet"
+  },
+  {
+    "id": "p016",
+    "name": "Tonsil Snare (Wire Loop)",
+    "category": "Instruments",
+    "price": 62.00,
+    "description": "Used for excising masses, primarily tonsils.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Tonsil+Snare"
+  },
+  {
+    "id": "p017",
+    "name": "Frazier Suction Tube (Angled)",
+    "category": "Instruments",
+    "price": 15.25,
+    "description": "Thin suction tube used in neuro and plastic surgery.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Frazier+S"
+  },
+  {
+    "id": "p018",
+    "name": "Ribbon Retractor (Malleable)",
+    "category": "Instruments",
+    "price": 40.50,
+    "description": "Flexible retractor that can be bent to shape.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Ribbon"
+  },
+  {
+    "id": "p019",
+    "name": "Suture Removal Kit (Disposable)",
+    "category": "Instruments",
+    "price": 7.99,
+    "description": "Pre-packaged kit with scissors and forceps.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Suture+Kit"
+  },
+  {
+    "id": "p020",
+    "name": "Lister Bandage Scissors",
+    "category": "Instruments",
+    "price": 9.99,
+    "description": "Angled scissors with blunt tip for cutting dressings.",
+    "imageUrl": "https://placehold.co/150x150/06B6D4/FFFFFF?text=Bandage+S"
+  },
+
+  {
+    "id": "p021",
+    "name": "Poliglecaprone 25 Suture (Absorbable, 3-0)",
+    "category": "Sutures",
+    "price": 15.50,
+    "description": "Monofilament absorbable suture, size 3-0.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Suture+3-0"
+  },
+  {
+    "id": "p022",
+    "name": "Polypropylene Suture (Non-Absorbable, 4-0)",
+    "category": "Sutures",
+    "price": 18.25,
+    "description": "Non-absorbable monofilament suture, size 4-0.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Suture+4-0"
+  },
+  {
+    "id": "p023",
+    "name": "Surgical Sponge (4x4 inch, Case of 2000)",
+    "category": "Consumables",
+    "price": 85.00,
+    "description": "Cotton gauze, sterile, X-ray detectable.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Sponge"
+  },
+  {
+    "id": "p024",
+    "name": "Sterile Surgical Gowns (XL, Box of 30)",
+    "category": "Consumables",
+    "price": 120.00,
+    "description": "AAMI Level 3 protection, fluid-resistant.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Gown+XL"
+  },
+  {
+    "id": "p025",
+    "name": "Povidone-Iodine Solution (1 Gallon)",
+    "category": "Antiseptics",
+    "price": 45.99,
+    "description": "10% Povidone-Iodine for skin prep.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Povidone"
+  },
+  {
+    "id": "p026",
+    "name": "Chlorhexidine Gluconate (CHG) Prep (50 Count)",
+    "category": "Antiseptics",
+    "price": 70.00,
+    "description": "Alcohol-based CHG applicator for pre-operative cleansing.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=CHG+Prep"
+  },
+  {
+    "id": "p027",
+    "name": "Surgical Stapler (Disposable, 35 Wide)",
+    "category": "Consumables",
+    "price": 110.00,
+    "description": "Single-use stapler for skin closure.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Stapler"
+  },
+  {
+    "id": "p028",
+    "name": "Wound Dressing Kit (Sterile, 50 Pack)",
+    "category": "Consumables",
+    "price": 55.00,
+    "description": "Includes gauze, tape, and sterile field.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Dressing+Kit"
+  },
+  {
+    "id": "p029",
+    "name": "Absorbent Underpad (30x36 inch, Case of 100)",
+    "category": "Consumables",
+    "price": 35.00,
+    "description": "Disposable bed protection for fluid control.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Underpad"
+  },
+  {
+    "id": "p030",
+    "name": "Surgical Drapes (Fenestrated, Case of 10)",
+    "category": "Consumables",
+    "price": 95.00,
+    "description": "Sterile drape with an adhesive field.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Drape"
+  },
+  {
+    "id": "p031",
+    "name": "Hemostatic Agents (Surgicel equivalent, Box of 10)",
+    "category": "Consumables",
+    "price": 250.00,
+    "description": "Oxidized regenerated cellulose for bleeding control.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Hemostatic"
+  },
+  {
+    "id": "p032",
+    "name": "Surgical Headlamp Batteries (Rechargeable)",
+    "category": "Equipment/Accessories",
+    "price": 42.99,
+    "description": "High-capacity lithium-ion battery pack.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Battery"
+  },
+  {
+    "id": "p033",
+    "name": "Casting Tape (Fiberglass, 3 inch x 4 yards)",
+    "category": "Orthopedic",
+    "price": 11.99,
+    "description": "Water-activated fiberglass casting material.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Casting+Tape"
+  },
+  {
+    "id": "p034",
+    "name": "Skin Closure Strips (1/4 x 3 inch, Box of 50)",
+    "category": "Consumables",
+    "price": 22.50,
+    "description": "Sterile, adhesive strips for wound closure.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Strips"
+  },
+  {
+    "id": "p035",
+    "name": "IV Start Kit (Disposable, Box of 25)",
+    "category": "Consumables",
+    "price": 38.00,
+    "description": "All components needed for a sterile IV insertion.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=IV+Kit"
+  },
+  {
+    "id": "p036",
+    "name": "Foley Catheter (16 Fr, 5cc Balloon)",
+    "category": "Urology",
+    "price": 9.99,
+    "description": "Two-way latex catheter with 5cc retention balloon.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Foley"
+  },
+  {
+    "id": "p037",
+    "name": "Urinary Drainage Bag (2000ml, Case of 10)",
+    "category": "Urology",
+    "price": 25.00,
+    "description": "Sterile drainage bag with anti-reflux valve.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Drain+Bag"
+  },
+  {
+    "id": "p038",
+    "name": "Endotracheal Tube (Cuffed, Size 7.5)",
+    "category": "Anesthesia",
+    "price": 15.00,
+    "description": "Disposable PVC tube with high-volume cuff.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=ETT+7.5"
+  },
+  {
+    "id": "p039",
+    "name": "Laryngeal Mask Airway (LMA, Size 4)",
+    "category": "Anesthesia",
+    "price": 65.00,
+    "description": "Reusable silicone LMA for airway management.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=LMA+4"
+  },
+  {
+    "id": "p040",
+    "name": "IV Extension Set (36 inch)",
+    "category": "Consumables",
+    "price": 2.50,
+    "description": "Small-bore tubing for IV line extension.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=IV+Ext"
+  },
+  {
+    "id": "p041",
+    "name": "Woven Gauze Sponges (Non-Sterile, 4x4, Case)",
+    "category": "Consumables",
+    "price": 75.00,
+    "description": "Bulk supply for general wound cleaning.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Gauze+4x4"
+  },
+  {
+    "id": "p042",
+    "name": "Tegaderm Film Dressing (4 x 4.75 inch)",
+    "category": "Consumables",
+    "price": 1.50,
+    "description": "Transparent film dressing for secure IV coverage.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Tegaderm"
+  },
+  {
+    "id": "p043",
+    "name": "Disposable Syringe (10mL, Luer-Lock, Box of 100)",
+    "category": "Consumables",
+    "price": 15.00,
+    "description": "High-quality 10mL syringe, latex-free.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Syringe+10"
+  },
+  {
+    "id": "p044",
+    "name": "Spinal Needle (22G x 3.5 inch, Box of 10)",
+    "category": "Anesthesia",
+    "price": 45.00,
+    "description": "Pencil-point spinal needle for regional block.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Spinal+N"
+  },
+  {
+    "id": "p045",
+    "name": "Surgical Prep Razor (Disposable, Box of 100)",
+    "category": "Consumables",
+    "price": 50.00,
+    "description": "Single-blade razor for pre-op hair removal.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Razor"
+  },
+  {
+    "id": "p046",
+    "name": "Elastic Bandage (6 inch x 5 yards)",
+    "category": "Consumables",
+    "price": 4.50,
+    "description": "Woven elastic wrap for compression and support.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Bandage"
+  },
+  {
+    "id": "p047",
+    "name": "Non-Adherent Dressing (3x8 inch, Box of 50)",
+    "category": "Consumables",
+    "price": 30.00,
+    "description": "Petrolatum-impregnated gauze for wounds.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Non-Adh"
+  },
+  {
+    "id": "p048",
+    "name": "Disposable Tourniquet (Roll of 25)",
+    "category": "Consumables",
+    "price": 18.00,
+    "description": "Single-use latex-free material for venipuncture.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Tourniquet"
+  },
+  {
+    "id": "p049",
+    "name": "Specimen Container (Sterile, 4oz, Box of 100)",
+    "category": "Consumables",
+    "price": 40.00,
+    "description": "Leak-proof container for tissue or fluid samples.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Container"
+  },
+  {
+    "id": "p050",
+    "name": "Transparent Surgical Film (10x12 inch, Box of 10)",
+    "category": "Consumables",
+    "price": 75.00,
+    "description": "Adhesive transparent film for creating a sterile field.",
+    "imageUrl": "https://placehold.co/150x150/10B981/FFFFFF?text=Film"
+  },
+
+  {
+    "id": "p051",
+    "name": "Minor Surgery Light (LED, Portable)",
+    "category": "Equipment",
+    "price": 899.00,
+    "description": "Adjustable LED light source for exam and minor procedures.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Surg+Light"
+  },
+  {
+    "id": "p052",
+    "name": "Autoclave Sterilizer (16 Liter Capacity)",
+    "category": "Equipment",
+    "price": 3500.00,
+    "description": "Tabletop steam sterilizer for instrument processing.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Autoclave"
+  },
+  {
+    "id": "p053",
+    "name": "Portable Suction Unit (AC/DC)",
+    "category": "Equipment",
+    "price": 450.00,
+    "description": "High-powered, quiet suction pump for emergency use.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Suction+Unit"
+  },
+  {
+    "id": "p054",
+    "name": "Patient Monitor (5-Lead ECG, SpO2, NIBP)",
+    "category": "Equipment",
+    "price": 2800.00,
+    "description": "Multi-parameter monitor for vital signs tracking.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Monitor"
+  },
+  {
+    "id": "p055",
+    "name": "Electrosurgical Unit (Bipolar/Monopolar)",
+    "category": "Equipment",
+    "price": 5500.00,
+    "description": "Standard high-frequency surgical unit for cutting and coagulation.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=ESU"
+  },
+  {
+    "id": "p056",
+    "name": "Standard Anesthesia Machine (with Ventilator)",
+    "category": "Equipment",
+    "price": 18000.00,
+    "description": "Fully featured system for general anesthesia delivery.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Anesthesia"
+  },
+  {
+    "id": "p057",
+    "name": "Infusion Pump (Volumetric, Dual Channel)",
+    "category": "Equipment",
+    "price": 1200.00,
+    "description": "Accurate and reliable intravenous fluid delivery.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Infusion+P"
+  },
+  {
+    "id": "p058",
+    "name": "Mobile Surgical Table (Manual Hydraulic)",
+    "category": "Equipment",
+    "price": 7500.00,
+    "description": "Adjustable table with C-arm compatibility.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Surg+Table"
+  },
+  {
+    "id": "p059",
+    "name": "Hospital Grade Defibrillator (Biphasic)",
+    "category": "Equipment",
+    "price": 4200.00,
+    "description": "Professional unit with manual and AED modes.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Defibrillator"
+  },
+  {
+    "id": "p060",
+    "name": "Digital Endoscopy Tower (HD Camera)",
+    "category": "Equipment",
+    "price": 15000.00,
+    "description": "Complete system for minimally invasive procedures.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Endo+Tower"
+  },
+  {
+    "id": "p061",
+    "name": "Microscope Drapes (Sterile, Box of 12)",
+    "category": "Equipment/Accessories",
+    "price": 95.00,
+    "description": "Cover for surgical microscopes.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Micro+Drape"
+  },
+  {
+    "id": "p062",
+    "name": "Surgical Headband Loupes (2.5x Magnification)",
+    "category": "Equipment/Accessories",
+    "price": 350.00,
+    "description": "Essential magnification for fine procedures.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Loupes+2.5x"
+  },
+  {
+    "id": "p063",
+    "name": "Heated Fluid Warmer (IV/Blood)",
+    "category": "Equipment",
+    "price": 1800.00,
+    "description": "Warming device for rapid infusion of fluids.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Fluid+Warmer"
+  },
+  {
+    "id": "p064",
+    "name": "Ultrasound Probe Cover (Sterile, Box of 50)",
+    "category": "Equipment/Accessories",
+    "price": 60.00,
+    "description": "Latex-free covers for endocavity probes.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Probe+Cover"
+  },
+  {
+    "id": "p065",
+    "name": "Patient Warming Blanket (Bair Hugger equivalent)",
+    "category": "Equipment/Accessories",
+    "price": 25.00,
+    "description": "Disposable forced-air warming blanket.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Warming+B"
+  },
+  {
+    "id": "p066",
+    "name": "Fetal/Maternal Monitor",
+    "category": "Equipment",
+    "price": 3200.00,
+    "description": "Non-stress testing (NST) and contraction monitoring.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Fetal+Monitor"
+  },
+  {
+    "id": "p067",
+    "name": "Operating Room Smoke Evacuator",
+    "category": "Equipment",
+    "price": 1500.00,
+    "description": "High-volume suction for surgical plume removal.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Smoke+E"
+  },
+  {
+    "id": "p068",
+    "name": "Hospital Bed (Electric, 5 Function)",
+    "category": "Equipment",
+    "price": 1800.00,
+    "description": "Fully electric bed with side rails and remote.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Hosp+Bed"
+  },
+  {
+    "id": "p069",
+    "name": "Emergency Crash Cart (Fully Stocked)",
+    "category": "Equipment",
+    "price": 2500.00,
+    "description": "Mobile cart with drawers for emergency supplies.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Crash+Cart"
+  },
+  {
+    "id": "p070",
+    "name": "Wall-Mount Sphygmomanometer",
+    "category": "Equipment",
+    "price": 120.00,
+    "description": "Manual blood pressure unit for procedure rooms.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=BP+Monitor"
+  },
+  {
+    "id": "p071",
+    "name": "Medical Oxygen Regulator (CGA 870)",
+    "category": "Equipment/Accessories",
+    "price": 65.00,
+    "description": "Piston-style regulator for oxygen tanks.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=O2+Regulator"
+  },
+  {
+    "id": "p072",
+    "name": "Portable Defibrillator Pads (Adult, Box of 5)",
+    "category": "Equipment/Accessories",
+    "price": 110.00,
+    "description": "Disposable electrode pads for external defibrillation.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Defib+Pads"
+  },
+  {
+    "id": "p073",
+    "name": "Laparoscopic Insufflator (High Flow)",
+    "category": "Equipment",
+    "price": 4500.00,
+    "description": "Used to deliver CO2 during laparoscopic surgery.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Insufflator"
+  },
+  {
+    "id": "p074",
+    "name": "LED Fiber Optic Light Cable (Storz Adapter)",
+    "category": "Equipment/Accessories",
+    "price": 850.00,
+    "description": "Durable fiber optic cable for endoscopic light source.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Light+Cable"
+  },
+  {
+    "id": "p075",
+    "name": "Surgical Microscope (Basic Model)",
+    "category": "Equipment",
+    "price": 25000.00,
+    "description": "Entry-level surgical microscope for micro-procedures.",
+    "imageUrl": "https://placehold.co/150x150/F59E0B/FFFFFF?text=Microscope"
+  },
+  {
+    "id": "p076",
+    "name": "Titanium Mini-Fragment Plate (2.0mm, 4 Hole)",
+    "category": "Implants",
+    "price": 150.00,
+    "description": "Orthopedic plate for small bone fixation.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Plate+2.0mm"
+  },
+  {
+    "id": "p077",
+    "name": "Polymethacrylate Bone Cement (40g)",
+    "category": "Orthopedic",
+    "price": 80.00,
+    "description": "Used for securing implants, high viscosity.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Bone+Cement"
+  },
+  {
+    "id": "p078",
+    "name": "Vascular Clamp Set (Bulldog style, 6 pieces)",
+    "category": "Vascular",
+    "price": 155.00,
+    "description": "Clamps for temporary occlusion of small vessels.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Vascular+Clamp"
+  },
+  {
+    "id": "p079",
+    "name": "Aortic Cross-Clamp (Straight)",
+    "category": "Vascular",
+    "price": 180.00,
+    "description": "Used to temporarily block the flow of blood in the aorta.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Aortic+Clamp"
+  },
+  {
+    "id": "p080",
+    "name": "Silicone Breast Implant (High Profile, 300cc)",
+    "category": "Implants",
+    "price": 950.00,
+    "description": "Cohesive silicone gel implant for augmentation.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Breast+Implant"
+  },
+  {
+    "id": "p081",
+    "name": "Absorbable Hemostatic Powder (1 Gram)",
+    "category": "Consumables",
+    "price": 75.00,
+    "description": "Powdered hemostatic agent for diffuse bleeding.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Hemostatic+Powder"
+  },
+  {
+    "id": "p082",
+    "name": "Neurosurgical Drill Bit Set (High Speed)",
+    "category": "Neurosurgery",
+    "price": 420.00,
+    "description": "Precision bits for cranial and spinal procedures.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Drill+Set"
+  },
+  {
+    "id": "p083",
+    "name": "Disposable Biopsy Needle (18G x 15cm)",
+    "category": "Biopsy",
+    "price": 12.99,
+    "description": "Core biopsy needle for tissue sampling.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Biopsy+Needle"
+  },
+  {
+    "id": "p084",
+    "name": "Thoracic Catheter (Chest Tube, 32 Fr)",
+    "category": "Cardiothoracic",
+    "price": 40.00,
+    "description": "Large-bore tube for chest drainage.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Chest+Tube"
+  },
+  {
+    "id": "p085",
+    "name": "Ophthalmic Micro-Scissors (Tungsten Carbide)",
+    "category": "Ophthalmology",
+    "price": 280.00,
+    "description": "Extremely fine scissors for eye procedures.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Micro-Scissors"
+  },
+  {
+    "id": "p086",
+    "name": "TKR Femoral Component (Size 5, Right)",
+    "category": "Implants",
+    "price": 1100.00,
+    "description": "Total Knee Replacement implant component.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=TKR+Femoral"
+  },
+  {
+    "id": "p087",
+    "name": "Hydrogel Wound Filler (10 Pack)",
+    "category": "Wound Care",
+    "price": 65.00,
+    "description": "Amorphous hydrogel for moist wound healing.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Hydrogel+Filler"
+  },
+  {
+    "id": "p088",
+    "name": "Nasal Speculum (Vienna Pattern)",
+    "category": "ENT",
+    "price": 30.00,
+    "description": "Used to view the nasal cavity.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Nasal+Speculum"
+  },
+  {
+    "id": "p089",
+    "name": "Laparoscopic Trocar Kit (10mm, Disposable)",
+    "category": "Laparoscopic",
+    "price": 88.00,
+    "description": "Sterile trocar and cannula set for port access.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Trocar+Kit"
+  },
+  {
+    "id": "p090",
+    "name": "Endoscopic Linear Cutter/Stapler",
+    "category": "Laparoscopic",
+    "price": 350.00,
+    "description": "Fires staples and cuts tissue simultaneously.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Stapler"
+  },
+  {
+    "id": "p091",
+    "name": "Spinal Fixation Rod (Titanium, 50mm)",
+    "category": "Implants",
+    "price": 420.00,
+    "description": "Used in posterior spinal fusion procedures.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Spinal+Rod"
+  },
+  {
+    "id": "p092",
+    "name": "Dermatome Blade (Electric, Box of 10)",
+    "category": "Dermatology",
+    "price": 95.00,
+    "description": "High-precision blade for skin grafting.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Dermatome+Blade"
+  },
+  {
+    "id": "p093",
+    "name": "Otolaryngology Head Mirror",
+    "category": "ENT",
+    "price": 75.00,
+    "description": "Classic diagnostic mirror for throat/nose exams.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Head+Mirror"
+  },
+  {
+    "id": "p094",
+    "name": "Angiographic Guidewire (0.035 inch)",
+    "category": "Vascular",
+    "price": 48.00,
+    "description": "Used for catheter insertion in vascular access.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Guidewire"
+  },
+  {
+    "id": "p095",
+    "name": "Electrode Tip Cleaner (Non-Abrasive)",
+    "category": "Equipment/Accessories",
+    "price": 35.00,
+    "description": "Used to remove eschar from ESU tips.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Tip+Cleaner"
+  },
+  {
+    "id": "p096",
+    "name": "Disposable Laryngoscope Kit (Mac 3 Blade)",
+    "category": "Anesthesia",
+    "price": 60.00,
+    "description": "Single-use light source and blade for intubation.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Laryngoscope"
+  },
+  {
+    "id": "p097",
+    "name": "Disposable ESU Pencil with Suction",
+    "category": "Consumables",
+    "price": 18.00,
+    "description": "Electrosurgical pencil with integrated smoke removal.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=ESU+Pencil"
+  },
+  {
+    "id": "p098",
+    "name": "Vaginal Speculum (Graves, Medium, Disposable)",
+    "category": "OB/GYN",
+    "price": 5.50,
+    "description": "Single-use speculum for pelvic exams.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Vaginal+Speculum"
+  },
+  {
+    "id": "p099",
+    "name": "Wound VAC Dressing Kit (Small)",
+    "category": "Wound Care",
+    "price": 120.00,
+    "description": "Negative pressure wound therapy dressing system.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Wound+VAC"
+  },
+  {
+    "id": "p100",
+    "name": "Total Hip Replacement Stem (Cemented, Size 12)",
+    "category": "Implants",
+    "price": 1500.00,
+    "description": "Femoral stem component for hip arthroplasty.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Hip+Stem"
+  },
+  {
+    "id": "p101",
+    "name": "Surgical Goggle Kit (Anti-Fog, 10 Pack)",
+    "category": "Consumables",
+    "price": 65.00,
+    "description": "Protective eyewear for operating room staff.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Goggles"
+  },
+  {
+    "id": "p102",
+    "name": "Sterile Transfer Tray (Disposable)",
+    "category": "Consumables",
+    "price": 15.00,
+    "description": "Used for transferring items to a sterile field.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Transfer+Tray"
+  },
+  {
+    "id": "p103",
+    "name": "Surgical Caps (Bouffant, Case of 500)",
+    "category": "Consumables",
+    "price": 40.00,
+    "description": "Disposable bouffant caps for hair containment.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Surgical+Cap"
+  },
+  {
+    "id": "p104",
+    "name": "Sharps Container (5 Quart, Wall Mountable)",
+    "category": "Consumables",
+    "price": 25.00,
+    "description": "Puncture-resistant container for biohazard disposal.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Sharps+Container"
+  },
+  {
+    "id": "p105",
+    "name": "Surgical Scrub Brush (Povidone-Iodine, 50 Pack)",
+    "category": "Antiseptics",
+    "price": 70.00,
+    "description": "Brush and sponge pre-loaded with surgical scrub solution.",
+    "imageUrl": "https://placehold.co/150x150/EF4444/FFFFFF?text=Scrub+Brush"
+  }
+]
