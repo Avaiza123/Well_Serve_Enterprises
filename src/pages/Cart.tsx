@@ -100,7 +100,7 @@ const Cart = () => {
                 <Button
                   className="w-full mb-3"
                   size="lg"
-                  onClick={() => navigate('/checkout')}
+                  onClick={() => navigate('/checkout-login')}
                 >
                   Proceed to Checkout
                 </Button>

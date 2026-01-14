@@ -19,6 +19,8 @@ import AdminDashboard from "./pages/admin/AdminDashboard";
 import AdminProducts from "./pages/admin/AdminProducts";
 import AdminOrders from "./pages/admin/AdminOrders";
 import NotFound from "./pages/NotFound";
+import CheckoutLogin from "./pages/CheckoutLogin";
+import AuthCallback from "./pages/AuthCallback";
 
 const queryClient = new QueryClient();
 
@@ -36,6 +38,10 @@ const App = () => (
               <Route path="/products" element={<><Navbar /><Products /><Footer /></>} />
               <Route path="/product/:id" element={<><Navbar /><ProductDetail /><Footer /></>} />
               <Route path="/cart" element={<><Navbar /><Cart /><Footer /></>} />
+              <Route path="/checkout-login" element={<CheckoutLogin />} />
+              <Route path="/auth/callback" element={<AuthCallback />} />
+              <Route path="/checkout" element={<Checkout />} />
+
               <Route path="/checkout" element={<><Navbar /><Checkout /><Footer /></>} />
               <Route path="/services" element={<><Navbar /><Services /><Footer /></>} />
               <Route path="/about" element={<><Navbar /><About /><Footer /></>} />
